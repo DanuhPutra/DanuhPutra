@@ -41,10 +41,9 @@
 ### 💻 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,bootstrap,js,react,vue,arduino,php,laravel" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,phpstorm,webstorm,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,php,typescript,git,github,tailwind,firebase,postman" />
 </div>
+
 
 ---
 
