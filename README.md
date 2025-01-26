@@ -38,7 +38,7 @@
 
 ---
 
-### 💻 Tools & Technologies
+### 💻 Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,php,typescript,git,github,tailwind,firebase,postman" />
