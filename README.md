@@ -56,21 +56,6 @@
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DanuhPutra&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
----
-
-### 🏆 Achievements & Badges
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanuhPutra&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
----
-
-### ✨ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
 
 ---
 
